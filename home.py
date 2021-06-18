@@ -15,7 +15,7 @@ if rad=="Home":
     st.image(image, width = 500)
     st.title('Climatic Fluctuations Onlooker')
     st.markdown(""" 
-It is a dashboard dedicated to the statistics and trends of major causes for climatic change, which are:\n
+It is a dashboard dedicated to the statistics and trends of the major causes for climatic change, which are:\n
 **Electricity Consumption**\n
 **Air Index**\n
 **Temperature Change Stats**\n
