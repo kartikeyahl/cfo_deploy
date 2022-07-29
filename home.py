@@ -59,7 +59,6 @@ Responding to this call to action, governments worked together to develop the Pa
             f.write(f"{a}")
             
     st.markdown('''#***Total pledges taken: {}***'''.format(a))
-    st.balloons()
     st.markdown('''If you have dataset and want predictions on it, visit: **[mlmodeller.in](https://www.mlmodeller.in/)**''' )
     
 
